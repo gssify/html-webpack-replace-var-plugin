@@ -2,7 +2,7 @@ function HtmlWebpackReplaceVarPlugin (options) {
   this.options = options || {}
 }
 
-ReplaceServerTpl.prototype.apply = function (compiler) {
+HtmlWebpackReplaceVarPlugin.prototype.apply = function (compiler) {
   var options = this.options
   var keys = Object.keys(options)
   compiler.plugin('compilation', function(compilation) {
