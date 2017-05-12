@@ -1,0 +1,23 @@
+{
+  "name": "html-webpack-replace-var-plugin",
+  "version": "1.0.0",
+  "description": "replace variable in server template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gssan/html-webpack-replace-var-plugin.git"
+  },
+  "keywords": [
+    "HtmlWebpackPlugin",
+    "HtmlWebpackReplaceVarPlugin"
+  ],
+  "author": "gssify@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gssan/html-webpack-replace-var-plugin/issues"
+  },
+  "homepage": "https://github.com/gssan/html-webpack-replace-var-plugin#readme"
+}
